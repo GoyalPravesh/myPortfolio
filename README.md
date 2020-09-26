@@ -1,5 +1,6 @@
 # Portfolio
 
-Contact Form is attached with the backend file (bootnew.php) which sends email to the user.
+This website contains all my projects done during my bachelors and my resume too.
 
-Check Live here https://prateekmiglani17.github.io/Portfolio/
+Check Live here https://goyalpravesh.github.io/myPortfolio/
+
